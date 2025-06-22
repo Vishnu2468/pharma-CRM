@@ -388,7 +388,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Below are screenshots showcasing key pages of the Pharmaceutical CRM System:
 
 - **Signup Page**: User registration interface for company owners to create a company. 📝  
-  ![Signup Page](<img width="1470" alt="SignUp Page" src="https://github.com/user-attachments/assets/ac0ddd10-bebb-412b-ade7-e2690c008131"/>)
+  ![Signup Page](https://github.com/user-attachments/assets/ac0ddd10-bebb-412b-ade7-e2690c008131)
 
 - **Login Page**: Secure login interface for owners and employees. 🔑  
   ![Login Page](<img width="1470" alt="Login Page" src="https://github.com/user-attachments/assets/66f50616-385d-4cf0-9232-c3730b84e885"/>)
