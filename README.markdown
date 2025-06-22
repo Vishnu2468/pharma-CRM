@@ -404,4 +404,4 @@ For questions, feedback, or collaboration opportunities, feel free to reach out!
 - **Lucide React**: For beautiful icons. 🖼️
 - **Tech Community**: For inspiration and resources. 🌍
 
-Made with love by Vishnu. ❤️
+Made with ❤️ by Vishnu.
