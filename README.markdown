@@ -388,34 +388,34 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Below are screenshots showcasing key pages of the Pharmaceutical CRM System:
 
 - **Signup Page**: User registration interface for company owners to create a company. 📝  
-  ![Signup Page](<img width="1470" alt="SignUp Page" src="https://github.com/user-attachments/assets/ac0ddd10-bebb-412b-ade7-e2690c008131" />)
+  ![Signup Page](<img width="1470" alt="SignUp Page" src="https://github.com/user-attachments/assets/ac0ddd10-bebb-412b-ade7-e2690c008131"/>)
 
 - **Login Page**: Secure login interface for owners and employees. 🔑  
-  ![Login Page](<img width="1470" alt="Login Page" src="https://github.com/user-attachments/assets/66f50616-385d-4cf0-9232-c3730b84e885" />)
+  ![Login Page](<img width="1470" alt="Login Page" src="https://github.com/user-attachments/assets/66f50616-385d-4cf0-9232-c3730b84e885"/>)
 
 - **Owner Dashboard**: Analytics and overview for company owners. 📊  
-  ![Owner Dashboard](<img width="1470" alt="O Dashboard" src="https://github.com/user-attachments/assets/40a76dec-73fb-46be-853a-4715c31041c2" />)
+  ![Owner Dashboard](<img width="1470" alt="O Dashboard" src="https://github.com/user-attachments/assets/40a76dec-73fb-46be-853a-4715c31041c2"/>)
 
 - **Owner Employee Page**: Interface for managing employee accounts. 👥  
-  ![Owner Employee Page](<img width="1470" alt="O Employee Page" src="https://github.com/user-attachments/assets/23d96fec-ef54-46c5-9fb9-4a7519143df5" />)
+  ![Owner Employee Page](<img width="1470" alt="O Employee Page" src="https://github.com/user-attachments/assets/23d96fec-ef54-46c5-9fb9-4a7519143df5"/>)
 
 - **Owner Products Page**: Manage the company’s product catalog. 💊  
-  ![Owner Products Page](<img width="1470" alt="O Products page" src="https://github.com/user-attachments/assets/9ff68320-39c9-4034-9acd-62e7e34548d7" />)
+  ![Owner Products Page](<img width="1470" alt="O Products page" src="https://github.com/user-attachments/assets/9ff68320-39c9-4034-9acd-62e7e34548d7"/>)
 
 - **Owner Organization Page**: Manage healthcare organizations. 🏥  
-  ![Owner Organization Page](<img width="1470" alt="O Organization page" src="https://github.com/user-attachments/assets/3a9dc533-50e4-41d1-8a58-0c98509e1301" />)
+  ![Owner Organization Page](<img width="1470" alt="O Organization page" src="https://github.com/user-attachments/assets/3a9dc533-50e4-41d1-8a58-0c98509e1301"/>)
 
 - **Employee Dashboard**: Employee’s personal stats and schedules. 📈  
-  ![Employee Dashboard](<img width="1470" alt="E Dashboard" src="https://github.com/user-attachments/assets/5189ce98-ff7c-4eda-9d55-33e55a1fb314" />)
+  ![Employee Dashboard](<img width="1470" alt="E Dashboard" src="https://github.com/user-attachments/assets/5189ce98-ff7c-4eda-9d55-33e55a1fb314"/>)
 
 - **Employee Visits Page**: Schedule and track doctor visits. 🩺  
-  ![Employee Visits Page](<img width="1470" alt="E Visits" src="https://github.com/user-attachments/assets/bf13fdce-93ce-4015-a9c9-7d593bfb3f0b" />)
+  ![Employee Visits Page](<img width="1470" alt="E Visits" src="https://github.com/user-attachments/assets/bf13fdce-93ce-4015-a9c9-7d593bfb3f0b"/>)
 
 - **Employee Schedules Page**: Manage personal schedules with calendar view. 📆  
-  ![Employee Schedules Page](<img width="1470" alt="E Schedules" src="https://github.com/user-attachments/assets/76c34ddd-b902-4a4e-ac85-d51cfc75e7cf" />)
+  ![Employee Schedules Page](<img width="1470" alt="E Schedules" src="https://github.com/user-attachments/assets/76c34ddd-b902-4a4e-ac85-d51cfc75e7cf"/>)
 
 - **Employee Attendance Page**: Mark attendance and request leaves. 🕒  
-  ![Employee Attendance Page](<img width="1470" alt="E Attendance" src="https://github.com/user-attachments/assets/682e176c-2c2c-4b76-a61a-5ddd0dc4aa09" />)
+  ![Employee Attendance Page](<img width="1470" alt="E Attendance" src="https://github.com/user-attachments/assets/682e176c-2c2c-4b76-a61a-5ddd0dc4aa09"/>)
 
 ---
 
